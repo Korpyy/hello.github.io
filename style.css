@@ -64,8 +64,8 @@ header nav ul li a:hover {
     position: relative;
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(to bottom right, rgba(96, 76, 76, .6), rgba(96, 76, 76, .6)), url("img/bg-image.jpeg");
-    background-position: center bottom;
+    background-image: linear-gradient(to bottom right, rgba(96, 76, 76, .6), rgba(96, 76, 76, .6)), url("img/Logo-ugot1.png");
+    background-position: 1px;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
